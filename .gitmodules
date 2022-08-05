@@ -1,0 +1,6 @@
+[submodule "components/ESP32DLEDController"]
+	path = components/ESP32DLEDController
+	url = https://github.com/CalinRadoni/ESP32DLEDController.git
+[submodule "components/ESP32RMT"]
+	path = components/ESP32RMT
+	url = https://github.com/CalinRadoni/ESP32RMT.git
